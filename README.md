@@ -59,6 +59,10 @@ DaisyUI components can be used as well. For example, a button can be created usi
 You can customize and extend Tailwind CSS styles and DaisyUI components according to your project's needs.
 
 
+## Clearing README.md
+
+Once you have successfully set up and customized your project, you can clear the contents of this README.md file and replace it with your project-specific information, documentation, and instructions.
+
 ## Contributing
 
 We welcome contributions to this project. To contribute, please follow these steps:
