@@ -1,8 +1,43 @@
-# React + Vite
+# React Project with Tailwind CSS and DaisyUI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our React project template (AL Farabi Faru) with integrated Tailwind CSS and DaisyUI. This template provides a streamlined development environment for building modern web applications with a responsive and customizable UI.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up and run the project on your local machine:
+
+### Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+### Installation
+
+1. Clone the repository to your local machine using Git/Terminal:
+
+   ```bash
+
+$ git clone <repository_url>
+
+2. Install project dependencies:
+
+$ npm install
+
+3. Running the Project
+
+Once you have installed the dependencies, you can start the development server to run the project:
+
+$ npm start
+
+4. Contributing
+
+We welcome contributions to this project. To contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your feature or bug fix.
+4. Make your changes and commit them.
+5. Push your changes to your fork on GitHub.
+6. Open a pull request to the original repository.
