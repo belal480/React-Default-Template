@@ -23,7 +23,7 @@ Before you begin, make sure you have the following installed:
 To deploy this project run
 
 ```bash
- git clone <repository_url>
+ git clone https://github.com/farabifaru48/React-Default-Template.git
 ```
 
 ### Running the Project
