@@ -15,23 +15,23 @@ Before you begin, make sure you have the following installed:
 
 ### Installation
 
-1. Clone the repository to your local machine using Git/Terminal:
+### Clone the repository to your local machine using Git/Terminal:
 
    ```bash
 
 $ git clone <repository_url>
 
-2. Install project dependencies:
+### Install project dependencies:
 
 $ npm install
 
-3. Running the Project
+### Running the Project
 
 Once you have installed the dependencies, you can start the development server to run the project:
 
 $ npm start
 
-4. Contributing
+### Contributing
 
 We welcome contributions to this project. To contribute, please follow these steps:
 
