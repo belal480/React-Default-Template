@@ -19,17 +19,17 @@ Before you begin, make sure you have the following installed:
 
    ```bash
 
-$ git clone <repository_url>
+ git clone <repository_url>
 
 ### Install project dependencies:
 
-$ npm install
+npm install
 
 ### Running the Project
 
 Once you have installed the dependencies, you can start the development server to run the project:
 
-$ npm start
+npm start
 
 ### Contributing
 
