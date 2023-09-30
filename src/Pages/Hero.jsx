@@ -1,3 +1,4 @@
+import Home from "./Home";
 
 const Hero = () => {
   const heroStyle = {
@@ -5,14 +6,17 @@ const Hero = () => {
   };
 
   return (
-    <div className="bg-cover bg-center h-96 relative" style={heroStyle}>
-      <div className="absolute inset-0 bg-black opacity-50"></div>
-      <div className="absolute inset-0 flex items-center justify-center">
-        <div className="text-white text-center">
-          <h1 className="text-4xl md:text-6xl font-semibold">Hi, I am Belal</h1>
-          <p className="text-xl md:text-2xl mt-4">Welcome to my website</p>
-        </div>
+    <div>
+    <div className="bg-cover bg-center h-[90vh] relative" style={heroStyle}>
+    <div className="absolute inset-0 bg-black opacity-50"></div>
+    <div className="absolute inset-0 flex items-center justify-center">
+      <div className="text-white text-center">
+        <h1 className="text-4xl md:text-6xl font-semibold">Hi, I am Farabi </h1>
+        <p className="text-xl md:text-2xl mt-4">Welcome to my website</p>
       </div>
+    </div>
+  </div>
+  <Home />
     </div>
   );
 }
